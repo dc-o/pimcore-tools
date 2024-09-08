@@ -1,5 +1,5 @@
 <?php
-namespace DCO\Tools\Tools;
+namespace DCO\Tools\Tool;
 
 use Pimcore\Model\WebsiteSetting;
 
